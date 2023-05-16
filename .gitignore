@@ -1,0 +1,7 @@
+__pycache__/
+datasets/
+logs/
+not_so_usefull/
+notes/
+wandb/
+used_in_bachelors/
